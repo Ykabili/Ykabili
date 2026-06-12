@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yassine%20Kabili&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%201337%20School&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yassine%20Kabili&fontSize=50&animation=twinkling&fontAlignY=38&desc=C%20%7C%20C%2B%2B%20%7C%20Future%20AI%20Engineer&descAlignY=58" />
 </p>
+
 # Hi, I'm Yassine 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+1337+School;Building+Strong+Foundations+in+C+and+C%2B%2B;Exploring+Software+Development;Interested+in+Web+Development%2C+AI+and+Data;Learning+One+Step+at+a+Time" alt="Typing SVG" />
