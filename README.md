@@ -1,4 +1,7 @@
 # Hi, I'm Yassine 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Computer+Science+Student+at+1337+School;Building+Strong+Foundations+in+C+and+C%2B%2B;Exploring+Software+Development;Interested+in+Web+Development%2C+AI+and+Data;Learning+One+Step+at+a+Time" alt="Typing SVG" />
+</p>
 
 ## 👨‍💻 About Me
 
