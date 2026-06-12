@@ -1,37 +1,58 @@
 # Hi, I'm Yassine 👋
 
-## About Me
-I’m a computer science student currently in the common core at 1337 School in Morocco.
-I started with **C programming**, then moved into **C++ and Object-Oriented Programming**, where I built a strong foundation in software development concepts.
+## 👨‍💻 About Me
 
-I'm still early in my journey, but I'm focused on building solid fundamentals before jumping into more advanced fields.
+I'm a computer science student currently completing the Common Core program at **1337 School (42 Network) in Morocco**.
 
-## Interests
-- 🌐 Web Development (currently planning to start)
-- 🤖 Artificial Intelligence (future focus)
-- 🗄️ Databases and how data systems work
-- 📊 Data Science & Data Analysis (exploring interest)
+My programming journey began with **C**, where I learned the fundamentals of programming and problem solving. I then moved on to **C++** and **Object-Oriented Programming**, which helped me build a strong foundation in software design and development.
 
-## Skills So Far
-- C (basics + problem solving)
-- C++ (OOP, classes, algorithms)
-- Git & GitHub (basic usage)
-- Problem solving fundamentals
+I'm currently focused on strengthening my core computer science skills before diving deeper into more advanced fields.
 
-## Projects
-Most of my projects so far come from my common core studies and are focused on learning fundamentals rather than real-world production apps.
+## 🚀 Interests
 
-## Current Focus
-- Strengthening programming fundamentals
-- Preparing to start Web Development
-- Building a path toward AI and Data Science
+* 🌐 Web Development
+* 🤖 Artificial Intelligence
+* 🗄️ Databases & Data Systems
+* 📊 Data Science & Data Analysis
 
-## Goals
-- Become strong in full-stack development
-- Learn how data systems and databases work deeply
-- Move into AI and data-related fields later
-- Start building real-world, market-ready projects
+## 🛠️ Skills
 
-## Contact
-- Email: yassine09kabili@gmail.com
-- LinkedIn: www.linkedin.com/in/yassine-kabili-32929239a
+### Languages
+
+* C
+* C++
+
+### Tools
+
+* Git
+* GitHub
+* Linux
+
+### Core Concepts
+
+* Object-Oriented Programming (OOP)
+* Problem Solving
+* Algorithms & Data Structures Fundamentals
+
+## 📚 Current Focus
+
+* Strengthening programming fundamentals
+* Expanding my knowledge of software development
+* Preparing to learn Web Development
+* Building a strong foundation for AI and Data-related fields
+
+## 🎯 Goals
+
+* Become a skilled Full-Stack Developer
+* Gain a deep understanding of databases and data systems
+* Explore Artificial Intelligence and Data Science
+* Build real-world projects that solve meaningful problems
+
+## 📂 Projects
+
+Most of my current projects come from the 1337 Common Core curriculum and are focused on developing strong programming and problem-solving skills.
+
+## 📫 Contact
+
+* Email: [yassine09kabili@gmail.com](mailto:yassine09kabili@gmail.com)
+* LinkedIn: [www.linkedin.com/in/yassine-kabili-32929239a](http://www.linkedin.com/in/yassine-kabili-32929239a)
