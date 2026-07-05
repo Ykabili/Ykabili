@@ -57,11 +57,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykabili&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
 </div>
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ykabili&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
 ---
 
 ### 🧩 Tech Stack
