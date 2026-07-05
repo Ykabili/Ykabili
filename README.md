@@ -85,7 +85,7 @@
 > "Talk is cheap. Show me the code."
 > — Linus Torvalds
 
-
-
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%" />
+<div align="center">
+  <img src="[https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg](https://img.magnific.com/free-vector/pixel-clouds-set-night-game-background_107791-34646.jpg?semt=ais_hybrid&w=740&q=80)"/>
+</div>
+<div align="center">
