@@ -3,6 +3,11 @@
 </div>
 <div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Ykabili&color=58D68D&style=flat-square&label=profile+views)](https://github.com/Ykabili)
+
+</div>
+<div align="center">
+
 ### Hi there 👋 I'm Yassine
 
 </div>
@@ -11,11 +16,6 @@
 
 ### 📌 About Me
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Ykabili&color=58D68D&style=flat-square&label=profile+views)](https://github.com/Ykabili)
-
-</div>
 
 - 💻 Comfortable writing and debugging low-level C and C++ — memory management, data structures, and object-oriented design
 - 🐳 Building containerized infrastructure with Docker (multi-service stacks: NGINX, PHP-FPM, MariaDB)
@@ -31,7 +31,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykabili)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-kabili-32929239a/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine09kabili@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00.yassine.0/)
+[![Insta](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00.yassine.0/)
 </div>
 
 ---
@@ -50,10 +50,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d&icon_color=58d68d" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ykabili&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d&icon_color=58d68d" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykabili&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykabili&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d" height="165" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 ### ⭐ Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Ykabili&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
 
 </td>
 <td valign="top" width="50%">
@@ -102,14 +102,7 @@
 
 ### Support Me 💵
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ykabili)
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://via.placeholder.com/1200x150/0d1117/58D68D?text=Footer+banner+image+here" width="100%" />
-
-</div>
