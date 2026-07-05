@@ -75,23 +75,14 @@
 
 ---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+### 💬 Dev Quote
 
-### ⭐ Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Ykabili&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
-
-</td>
-<td valign="top" width="50%">
-
-### 🍥 Random Dev Quote
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]
+> "Talk is cheap. Show me the code."
+> — Linus Torvalds
 
 
----
+----
+
 
 <div align="center">
 
@@ -100,4 +91,8 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ykabili)
 
 </div>
-
+---
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg"/>
+</div>
+<div align="center">
