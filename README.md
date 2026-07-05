@@ -88,7 +88,4 @@
 
 
 ---
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg"/>
-</div>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%" />
