@@ -81,7 +81,7 @@
 > — Linus Torvalds
 
 
-----
+---
 
 
 <div align="center">
