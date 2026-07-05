@@ -1,5 +1,7 @@
 <div align="center">
-
+  <img src="[https://uploads8.wikiart.org/00139/images/pablo-picasso/guernica-by-pablo-picasso.jpg" alt="Guernica — Pablo Picasso, 1937" width="100%](https://pin.it/3cNT8UQRC)"/>
+</div>
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=58D68D&center=true&vCenter=true&width=600&lines=currently+%3A+1337+common+core;language+%3A+C+%E2%86%92+C%2B%2B+%E2%86%92+%3F%3F%3F;next+target+%3A+containers+%2B+web+dev;goal+%3A+build+things+that+matter;status+%3A+grinding)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58D68D&style=flat-square&label=profile+views)
