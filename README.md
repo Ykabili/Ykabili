@@ -5,38 +5,68 @@
 
 <img src="https://via.placeholder.com/1200x300/0d1117/58D68D?text=Add+your+own+banner+image+here" width="100%" />
 
-<br>
+<br><br>
 
-# MASTERJUDAH — style banner idea, swap image above
+# Yassine here 🔥
+
+### Namaste 🙏 I'm Yassine
 
 </div>
 
 ---
+
+### 📌 About Me
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=58D68D&center=true&vCenter=true&width=600&lines=currently+%3A+1337+common+core;language+%3A+C+%E2%86%92+C%2B%2B+%E2%86%92+%3F%3F%3F;next+target+%3A+containers+%2B+web+dev;goal+%3A+build+things+that+matter;status+%3A+grinding)](https://git.io/typing-svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58D68D&style=flat-square&label=profile+views)](https://github.com/YOUR_USERNAME)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58D68D&style=flat-square&label=profile+views)
+</div>
+
+- 🌱 Began the journey with C, now moving through C++
+- 🐳 Currently building Docker-based infrastructure (Inception — LEMP stack)
+- 🎓 Pursuing Computer Science at **1337 / 42 Network**
+- 💻 Comfortable with systems programming, Linux, and Git workflows
+- 🔭 Long-term interest in AI, Machine Learning, and Data Science
+- ⚡ Ask me about C/C++, Docker, Linux system administration
+- 🏸 Off the keyboard: badminton, swimming, gym
+
+**🔆 Follow Me on:**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
 ---
 
-### 🧭 About Me
+### 🧰 Languages & Tools I Have Placed My Hands On
 
-CS student at **1337 / 42 Network**, working through the Common Core — C, then C++, now moving into systems and infrastructure. Currently building an Inception project (Docker-based LEMP stack). Interested in taking what I learn in low-level systems and applying it toward web development, AI, and data science.
+<div align="center">
 
-- 🌱 Began the journey with C, moving through C++ now
-- 🐳 Currently working on Docker-based infrastructure (Inception)
-- 🎓 Studying Computer Science at 1337 / 42 Network
-- 💻 Comfortable with systems programming, Linux, and Git workflows
-- 🔭 Long-term interest in AI, ML, and Data Science
-- 🏸 Off the keyboard: badminton, swimming, gym
+[![Skills](https://skillicons.dev/icons?i=c,cpp,linux,docker,git,vim,bash,nginx,mysql,html,css,js,python,figma&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools I've Placed My Hands On
+### ⚡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d&icon_color=58d68d" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d" height="165" />
+
+</div>
+
+---
+
+### 🧩 Tech Stack
 
 <div align="center">
 
@@ -48,29 +78,38 @@ CS student at **1337 / 42 Network**, working through the Common Core — C, then
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
 
-`web dev — loading` &nbsp;·&nbsp; `AI — exploring` &nbsp;·&nbsp; `data science — planned`
-
 ---
 
-### 🧩 Focus
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-**Foundation** — memory management, pointers, and process handling in C; OOP, templates, and RAII in C++.
+### ⭐ Top Contributed Repo
 
-**Infrastructure** — Docker and container orchestration, Linux system administration, building multi-service stacks from scratch.
+<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
 
-**Ahead** — web development, then branching into AI and data science.
+</td>
+<td valign="top" width="50%">
+
+### 🍥 Random Dev Quote
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### Support Me 💵
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
 
 </div>
 
