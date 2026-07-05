@@ -3,13 +3,7 @@
 </div>
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/0d1117/58D68D?text=Add+your+own+banner+image+here" width="100%" />
-
-<br><br>
-
-# Yassine here 🔥
-
-### Namaste 🙏 I'm Yassine
+### Hi there 👋 I'm Yassine
 
 </div>
 
@@ -19,26 +13,25 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58D68D&style=flat-square&label=profile+views)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ykabili&color=58D68D&style=flat-square&label=profile+views)](https://github.com/Ykabili)
 
 </div>
 
-- 🌱 Began the journey with C, now moving through C++
-- 🐳 Currently building Docker-based infrastructure (Inception — LEMP stack)
-- 🎓 Pursuing Computer Science at **1337 / 42 Network**
-- 💻 Comfortable with systems programming, Linux, and Git workflows
-- 🔭 Long-term interest in AI, Machine Learning, and Data Science
-- ⚡ Ask me about C/C++, Docker, Linux system administration
-- 🏸 Off the keyboard: badminton, swimming, gym
+- 💻 Comfortable writing and debugging low-level C and C++ — memory management, data structures, and object-oriented design
+- 🐳 Building containerized infrastructure with Docker (multi-service stacks: NGINX, PHP-FPM, MariaDB)
+- 🐧 Working knowledge of Linux system administration and shell scripting
+- 🔧 Solid with Git-based workflows and version control
+- 🔭 Expanding into web development, with AI and data science as longer-term goals
+- ⚡ Ask me about C/C++, Docker, or Linux systems
 
 **🔆 Follow Me on:**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ykabili)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-kabili-32929239a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine09kabili@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00.yassine.0/)
 </div>
 
 ---
@@ -47,7 +40,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,linux,docker,git,vim,bash,nginx,mysql,html,css,js,python,figma&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,linux,docker,git,vim,bash)](https://skillicons.dev)
 
 </div>
 
