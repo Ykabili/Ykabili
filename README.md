@@ -50,10 +50,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ykabili&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d&icon_color=58d68d" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykabili&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ykabili&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58d68d" height="165" />
 
 </div>
 
