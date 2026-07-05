@@ -51,8 +51,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykabili&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
-
-
 </div>
 
 ---
@@ -79,16 +77,7 @@
 > — Linus Torvalds
 
 
----
 
-
-<div align="center">
-
-### Support Me 💵
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ykabili)
-
-</div>
 ---
 <div align="center">
   <img src="https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg"/>
