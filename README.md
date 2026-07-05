@@ -52,7 +52,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ykabili&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58d68d&fire=58d68d" height="165" />
 </div>
+<div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/Ykabili/Ykabili/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 ---
 
 ### 🧩 Tech Stack
